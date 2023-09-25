@@ -1,0 +1,6 @@
+Alguns links importantes para entender melhor Kubernetes.
+
+ - kubernetes.io
+ - https://minikube.sigs.k8s.io/docs/
+ - https://k3d.io/v5.6.0/
+ - https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/ 
